@@ -122,9 +122,8 @@ seaborn==0.13.2
 
 **Abdelrahman Ibrahim Abdelrahman**  
 **Mohamed Hisham Hussain**  
-**Nada Rashad Montaser El-Nager**
-
-**Mostafa Sadeq**
+**Mostafa Sadeq**  
+**Nada Rashad Montaser El-Nager**  
 ---
 
 *Built for Instant SHA Hackathon 2026*
