@@ -64,9 +64,9 @@ An interactive **Streamlit + Plotly** dashboard with 7 analytical tabs:
 ---
 ## 📈 Power BI Dashboards
 
-![Dashboard 1](dashboards/Dashboard1.jpg)
-![Dashboard 2](dashboards/Dashboard2.jpg)
-![Dashboard 3](dashboards/Dashboard3.jpg)
+![Dashboard 1](Dashboards/Dashboard1.jpg)
+![Dashboard 2](Dashboards/Dashboard2.jpg)
+![Dashboard 3](Dashboards/Dashboard3.jpg)
 ## 🛠️ Tech Stack
 
 | Category | Tools |
