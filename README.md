@@ -45,7 +45,7 @@ instant_SHA_hackathon_2026/
 
 ---
 
-## 📊 AutoPulse Dashboard
+## 📊 Dashboard
 
 An interactive **Streamlit + Plotly** dashboard with 7 analytical tabs:
 
@@ -62,7 +62,11 @@ An interactive **Streamlit + Plotly** dashboard with 7 analytical tabs:
 **KPI Cards at a glance:** Total Revenue · Avg Selling Price · Avg Gross vs MMR · Underpriced % · Top Make
 
 ---
+## 📈 Power BI Dashboards
 
+![Dashboard 1](dashboards/Dashboard1.jpg)
+![Dashboard 2](dashboards/Dashboard2.jpg)
+![Dashboard 3](dashboards/Dashboard3.jpg)
 ## 🛠️ Tech Stack
 
 | Category | Tools |
@@ -119,6 +123,7 @@ seaborn==0.13.2
 **Abdelrahman Ibrahim Abdelrahman**  
 **Mohamed Hisham Hussain**  
 **Nada Rashad Montaser El-Nager**
+**Mostafa Sadeq**
 ---
 
 *Built for Instant SHA Hackathon 2026*
